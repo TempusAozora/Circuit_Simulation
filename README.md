@@ -44,4 +44,4 @@ SCOPE:
 - Light bulb simulation
 - circuit with switches
 
-Bug reports: https://docs.google.com/forms/d/1jlm5trI75B3LS-GzpoQjPeyBvh9sHV9BAnwDS_iKaxQ/edit
+Bug reports: https://forms.gle/VJykViAnZhsQnt549
