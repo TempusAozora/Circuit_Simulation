@@ -1,5 +1,14 @@
-# Circuit_Simulation
+# Download
 
+DONWLOAD LINK: https://drive.google.com/drive/folders/1Gwj4wwIVcNDM6PQOOfEyv7i9CvvO0brA
+
+Instructions: 
+1. Download the whole folder "circuit_simulation_beta_v5.0" (it will be downloaded as zip)
+2. Extract the downloaded zip file.
+3. Open the extracted folder and open "circuit_simulation_beta_v5.0"
+4. Run the "Physics_Simulation_Beta_v5.0" application or executable file. Choose the executable file not the pck file.
+
+# Circuit Simulation
 Made with Godot Game Engine and SPICE using Pyspice
 
 CONTROLS:
