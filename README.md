@@ -3,10 +3,10 @@
 DONWLOAD LINK: https://drive.google.com/drive/folders/1MRPMMzTd43MuAWinfScwZcg0Ju4I-Nnj
 
 Instructions: 
-1. Download the whole folder "circuit_simulation_beta_v5.0" (it will be downloaded as zip)
+1. Download the whole folder "circuit_simulation_beta_v7.0" (it will be downloaded as zip)
 2. Extract the downloaded zip file.
-3. Open the extracted folder and open "circuit_simulation_beta_v5.0"
-4. Run the "Physics_Simulation_Beta_v5.0" application or executable file. Choose the executable file not the pck file.
+3. Open the extracted folder and open "circuit_simulation_beta_v7.0"
+4. Run the "Physics_Simulation_Beta_v7.0" application or executable file. Choose the executable file not the pck file.
 
 # Circuit Simulation
 Made with Godot Game Engine and SPICE using Pyspice
@@ -20,6 +20,8 @@ CONTROLS:
 - How to connect/disconnect the switch:
   - Connecting the switch: Drag the switch where the mouse is hovering the wire. It is hovering the wire when the wire turns blue. Then press E.
   - Disconnecting the switch: Hold left mouse button to the switch, then press E.
+- Movement:
+  - Hold the scroll wheel to pan and scroll up or down for zooming. 
 
 COMPONENTS:
 - Node - To connect three or more components together. This is used for making more complex connections.
@@ -39,7 +41,7 @@ SCOPE:
 - Ohm's law
 - Kirchoff's current law
 - Kirchoff's voltage law
-- AC circuit
+- AC circuit. WORK IN PROGRESS
 - DC circuit
 - Light bulb simulation
 - circuit with switches
