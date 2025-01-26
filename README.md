@@ -1,6 +1,6 @@
 # Download
 
-DONWLOAD LINK: https://drive.google.com/drive/folders/1MRPMMzTd43MuAWinfScwZcg0Ju4I-Nnj
+DONWLOAD LINK: https://drive.google.com/drive/folders/18MdogcQEW1887eT0yU7Oh_MuqxNseY25
 
 Instructions: 
 1. Download the whole folder "circuit_simulation_beta_v7.0" (it will be downloaded as zip)
